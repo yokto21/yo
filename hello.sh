@@ -12,3 +12,4 @@ SSH_HOST="your_remote_host"         # IP adresa ili hostname udaljenog servera z
 SSH_USER="your_remote_ssh_user"     # Korisničko ime za SSH na udaljenom serveru
 REMOTE_BACKUP_DIR="/remote/path/to/backup/directory" # Udaljeni direktorij za pohranu sigurnosnih kopija
 RETENTION_DAYS=5  #Broj dana koliko ce se datoteka zadrzati
+EMAIL_TO: yokto@hotmail.com  #poslati mail
